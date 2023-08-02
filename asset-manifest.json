@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/FIT5120-onboarding/static/css/main.073c9b0a.css",
-    "main.js": "/FIT5120-onboarding/static/js/main.7e581489.js",
+    "main.css": "/FIT5120-onboarding/static/css/main.d31ad22f.css",
+    "main.js": "/FIT5120-onboarding/static/js/main.7e211d2b.js",
     "static/js/787.28cb0dcd.chunk.js": "/FIT5120-onboarding/static/js/787.28cb0dcd.chunk.js",
-    "static/media/logo.svg": "/FIT5120-onboarding/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "static/media/background.jpg": "/FIT5120-onboarding/static/media/background.de826448941f0e68e6d5.jpg",
     "index.html": "/FIT5120-onboarding/index.html",
-    "main.073c9b0a.css.map": "/FIT5120-onboarding/static/css/main.073c9b0a.css.map",
-    "main.7e581489.js.map": "/FIT5120-onboarding/static/js/main.7e581489.js.map",
+    "main.d31ad22f.css.map": "/FIT5120-onboarding/static/css/main.d31ad22f.css.map",
+    "main.7e211d2b.js.map": "/FIT5120-onboarding/static/js/main.7e211d2b.js.map",
     "787.28cb0dcd.chunk.js.map": "/FIT5120-onboarding/static/js/787.28cb0dcd.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.073c9b0a.css",
-    "static/js/main.7e581489.js"
+    "static/css/main.d31ad22f.css",
+    "static/js/main.7e211d2b.js"
   ]
 }
