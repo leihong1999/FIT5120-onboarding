@@ -15,7 +15,7 @@ function Page1() {
                             <div class="u-align-left u-container-style u-layout-cell u-palette-4-base u-right-cell u-size-30 u-size-xs-60 u-layout-cell-2">
                                 <div class="u-container-layout u-valign-middle u-container-layout-2">
                                     <h2 class="u-text u-text-default u-text-1">Footprint</h2>
-                                    <p class="u-text u-text-2">Sample text. Lorem ipsum dolor sit amet, consectetur adipiscing elit nullam nunc justo sagittis suscipit ultrices.</p>
+                                    <p class="u-text u-text-2">Sample text.</p>
                                     <a href="" class="u-border-2 u-border-white u-btn u-btn-rectangle u-button-style u-none u-btn-1">Start</a>
                                 </div>
                                 <div class="u-container-layout u-valign-middle u-container-layout-2">
