@@ -2,7 +2,7 @@ import React from 'react';
 import './Page-1.css';
 import './nicepage.css';
 
-function Page2() {
+function Page3() {
     return (
         <section class="u-align-center u-clearfix u-section-1" id="sec-9e1e">
             <div class="u-clearfix u-sheet u-valign-middle u-sheet-1">
@@ -14,14 +14,14 @@ function Page2() {
                             </div>
                             <div class="u-align-left u-container-style u-layout-cell u-palette-4-base u-right-cell u-size-30 u-size-xs-60 u-layout-cell-2">
                                 <div class="u-container-layout u-valign-middle u-container-layout-2">
-                                    <h2 class="u-text u-text-default u-text-1">test</h2>
+                                    <h2 class="u-text u-text-default u-text-1">Page2</h2>
                                     <p class="u-text u-text-2">Sample text.</p>
-                                    <a href="" class="u-border-2 u-border-white u-btn u-btn-rectangle u-button-style u-none u-btn-1">Start</a>
+                                    
                                 </div>
                                 <div class="u-container-layout u-valign-middle u-container-layout-2">
                                     <h2 class="u-text u-text-default u-text-1">See Others</h2>
                                     <p class="u-text u-text-2">Sample text. Lorem ipsum dolor sit amet, consectetur adipiscing elit nullam nunc justo sagittis suscipit ultrices.</p>
-                                    <a href="" class="u-border-2 u-border-white u-btn u-btn-rectangle u-button-style u-none u-btn-1">Start</a>
+                                    
                                 </div>
                             </div>
                         </div>
@@ -31,4 +31,4 @@ function Page2() {
         </section>
     );
 }
-export default Page2;
+export default Page3;
