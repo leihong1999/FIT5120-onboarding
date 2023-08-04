@@ -1,16 +1,16 @@
 {
   "files": {
     "main.css": "/FIT5120-onboarding/static/css/main.733e5caa.css",
-    "main.js": "/FIT5120-onboarding/static/js/main.c83f6a6c.js",
+    "main.js": "/FIT5120-onboarding/static/js/main.fb512c95.js",
     "static/js/787.28cb0dcd.chunk.js": "/FIT5120-onboarding/static/js/787.28cb0dcd.chunk.js",
     "static/media/background.jpg": "/FIT5120-onboarding/static/media/background.de826448941f0e68e6d5.jpg",
     "index.html": "/FIT5120-onboarding/index.html",
     "main.733e5caa.css.map": "/FIT5120-onboarding/static/css/main.733e5caa.css.map",
-    "main.c83f6a6c.js.map": "/FIT5120-onboarding/static/js/main.c83f6a6c.js.map",
+    "main.fb512c95.js.map": "/FIT5120-onboarding/static/js/main.fb512c95.js.map",
     "787.28cb0dcd.chunk.js.map": "/FIT5120-onboarding/static/js/787.28cb0dcd.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.733e5caa.css",
-    "static/js/main.c83f6a6c.js"
+    "static/js/main.fb512c95.js"
   ]
 }
